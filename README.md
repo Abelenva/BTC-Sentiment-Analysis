@@ -1,7 +1,7 @@
 # Bitcoin Sentiment Analysis on Social Media
 
 ## Introduction
-This project explores the intriguing correlation between social media sentiment, particularly on Twitter, and the price fluctuations of Bitcoin. Leveraging a comprehensive dataset of approximately 91 million tweets, the aim is to uncover how public perception mirrored in social media can influence or reflect the volatile nature of cryptocurrency markets.
+This project explores the intriguing connection between social media sentiment, particularly on Twitter, and the price fluctuations of Bitcoin. Leveraging a comprehensive dataset of approximately 91 million tweets, the aim is to uncover how public perception mirrored in social media can influence or reflect the volatile nature of cryptocurrency markets.
 
 ## Data Source
 The primary dataset for this analysis comes from a Kaggle dataset: [Bitcoin Tweets](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets), which contains around 91 million tweets.
