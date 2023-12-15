@@ -31,6 +31,7 @@ The study demonstrates the potential of combining data analysis and domain knowl
 
 ## Technologies and Libraries Used
 - Python
+- Jupyter Notebook
 - Libraries: numpy, pandas, nltk, sklearn, matplotlib, wordcloud, vaderSentiment, seaborn, BeautifulSoup, requests
 
 ## Usage
